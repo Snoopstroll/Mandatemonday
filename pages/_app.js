@@ -3,8 +3,6 @@ import Footer from '../components/footer';
 import Head from "next/head";
 import ContactForm from '../components/contactFrom';
 
-
-
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
